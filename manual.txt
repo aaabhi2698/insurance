@@ -1,0 +1,5 @@
+This PHP project is about Insurance Management System.
+Core Module:
+1.Admin.
+2.Custmer
+3.Insuranse Ajents.
